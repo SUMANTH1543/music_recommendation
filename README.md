@@ -7,7 +7,7 @@ EchoMood is a personalized music recommendation web app that suggests songs base
 ## 🚀 Demo
 
 🔗 [Live Demo](#)  
-📦 [GitHub Repository](#)  
+📦 [https://github.com/SUMANTH1543/music_recommendation.git](https://github.com/SUMANTH1543/music_recommendation.git)  
 🟢 Built entirely with Python and Streamlit.
 
 ---
